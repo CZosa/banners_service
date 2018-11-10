@@ -7,6 +7,7 @@ class Name extends Component {
   }
 
   render() {
+    console.log(this);
     return (
       <span className="nameview">
         <ul>{this.props.name}</ul>

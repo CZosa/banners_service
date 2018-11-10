@@ -1,9 +1,10 @@
 const mysql = require("mysql");
 
 const connection = mysql.createConnection({
-	host: "localhost",
+	host: "restaurants.cgnynmya1xwv.us-west-1.rds.amazonaws.com",
 	user: "root",
-	database: "restaurants"
+	password: "lovelove",
+	database: "restaurants" 
 });
 
 const getAll = function(rest_id, callback) {
