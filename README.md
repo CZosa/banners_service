@@ -1,32 +1,18 @@
 # banner_service
+  [demo](https://www.youtube.com/watch?v=ao67d4gW5oo&feature=youtu.be)
 
 > This repo will contain the banner module of the Grubhub website
 
-## Related Projects
+## Built With
 
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-
-## Table of Contents
-
-1. [Usage](#Usage)
-1. [Requirements](#requirements)
-1. [Development](#development)
-
-## Usage
-
-> Some usage instructions
+- Node.js
+- Express
+- MySQL
+- React
 
 ## Requirements
 
-An `nvmrc` file is included if using [nvm](https://github.com/creationix/nvm).
-
 - Node 6.13.0
-- etc
-
-## Development
 
 ### Installing Dependencies
 
