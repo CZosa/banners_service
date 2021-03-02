@@ -1,7 +1,7 @@
 # banner_service
   [demo](https://www.youtube.com/watch?v=ao67d4gW5oo&feature=youtu.be)
 
-> This repo will contain the banner module of the Grubhub website
+> This repo will contain the banner microservice of the Grubhub website
 
 ## Built With
 
